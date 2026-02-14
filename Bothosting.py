@@ -41,7 +41,7 @@ import urllib.parse
 # ==========================================
 # 🔧 CONFIGURATION & GLOBALS
 # ==========================================
-TOKEN = '8556557364:AAGqwAVYQsNfdGPOBPZMehLUOqqL81UYkog'
+TOKEN = '8338755145:AAH1b-5xPpXzY0BXwwTt2etmsK_Y8cXQFIo'
 ADMIN_ID = 8179218740
 OWNER_USERNAME = "@SIDIKI_MUSTAFA_92"
 BOT_USERNAME = "@Hossssssttttt_bot"
